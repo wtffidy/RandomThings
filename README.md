@@ -17,4 +17,5 @@ All of these are set to `Toggle` on and off with `F6`
 
 ### Notes 
  - These are helpfull macros i used whilst playing Minecraft modpacks
- - All are togglable with f6 ( besides the shiftspam, that is on right shift)
+
+### **All programs are made via ChatGPT. I take no credit in creating these minus the idea and typing of the prompt.**
