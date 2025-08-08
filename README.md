@@ -1,21 +1,33 @@
-# __RandomThings__
-These are self-made (CGPT) python Files made to either help with my lazyness in Minecraft, or help people decide what Skua script to run.
+# 🎲 RandomThings
+A collection of self-made (ChatGPT-assisted) Python scripts designed to either automate repetitive Minecraft tasks or help you choose which Skua script to run next.
 
-# **__Important__** 
-- Unzip / Extract the files first
+> **Note:** Be sure to **unzip/extract the files** before using them!
 
-## __Pick_a_Script__
- 1. Unzip / Extract the files first
- 2. Run the `Spinner.py`
- 3. Give it a minute to load all 1700~ scripts into the wheel (it's ugly i know 😆)
- 4. Press space to spin the wheel once its loaded.
- 5. Result appears on the bottom of the window.
+---
 
-## __Minecraft Macros__
-All of these are set to `Toggle` on and off with `F6`
- - Besides `SpamShift.py` that is toggled on `Right-Tab`
+## 🌀 Pick_a_Script
+Spin the wheel and let fate decide what Skua script to run.
 
-### Notes 
- - These are helpfull macros i used whilst playing Minecraft modpacks
+### How to Use:
+1. **Unzip** the folder.
+2. Run `Spinner.py`.
+3. Wait ~1 minute for it to load ~1700 scripts into the wheel.  
+   _(Yeah, it looks messy — sorry 😆)_
+4. Press `Space` to spin the wheel.
+5. The selected result appears at the bottom of the window.
 
-### **All programs are made via ChatGPT. I take no credit in creating these, minus the idea and typing of the prompt >.>**
+---
+
+## 🛠️ Minecraft Macros
+Useful macros I used while playing various Minecraft modpacks.
+
+### Controls:
+- Most macros toggle **on/off** with `F6`.
+- `SpamShift.py` toggles with **Right-Tab**.
+
+---
+
+## ⚠️ Disclaimer
+All programs were generated with the help of **ChatGPT**.  
+I take no credit beyond the **idea** and typing the **prompts**. >.>
+
