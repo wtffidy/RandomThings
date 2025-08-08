@@ -10,5 +10,6 @@ random things people have asked for or i just made outa lazyness
  5. Result appears on the bottom of the window.
 
 #Minecraft Macros:
+ - Unzip / Extract the files first
  - Helpfull macros i used whilst playing Minecraft modpacks
  - All are togglable with f6 ( besides the shiftspam, that is on right shift)
